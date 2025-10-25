@@ -10,3 +10,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Donec v
 - Пункт 2: ещё пример
 
 Конец файла.
+
+коммит 2
